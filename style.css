@@ -1,0 +1,15 @@
+.header {
+    background-color: rgb(194, 186, 186);
+    text-align: center;
+}
+
+.blogpost{
+    font-size: small;
+    padding: 30px;
+}
+
+
+.footer {
+    background-color:rgb(115, 115, 155);
+    text-align: center;
+}
